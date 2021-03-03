@@ -154,6 +154,10 @@ h6 {
     }
 }
 
+#join {
+    background: linear-gradient(45deg, #da521c, #b8b8b8);
+}
+
 #header.header-fixed {
     background: rgb(231, 231, 231);
     padding: 0;
