@@ -155,7 +155,7 @@ h6 {
 }
 
 #header.header-fixed {
-    background: rgb(219, 216, 216);
+    background: rgb(231, 231, 231);
     padding: 0;
     padding-top: 40px;
     padding-left: 540px;
@@ -171,7 +171,7 @@ h6 {
 #intro {
     width: 100%;
     height: 100vh;
-    background: linear-gradient( 15deg, rgba(202, 202, 204, 0.5), rgba(246, 144, 144, 0.5)), url('../img/intro-bg.jpg') center top no-repeat;
+    background: linear-gradient( 15deg, rgba(202, 202, 204, 0.3), rgba(246, 144, 144, 0.3)), url('../img/intro-bg.jpg') center top no-repeat;
     background-size: cover;
     position: relative;
 }
