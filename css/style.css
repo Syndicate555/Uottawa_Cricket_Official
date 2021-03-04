@@ -1253,6 +1253,13 @@ body.mobile-nav-active #mobile-nav-toggle {
     color: #fff;
 }
 
+.social-link a {
+    font-size: 40px;
+    text-align: center;
+    justify-content: center;
+    color: red;
+}
+
 #contact .info {
     color: #333333;
 }
