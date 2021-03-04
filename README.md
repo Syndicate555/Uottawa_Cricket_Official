@@ -1,3 +1,3 @@
 # Website_html
 
-### https://uocricket.netlify.app/
+### Deployed site - https://uocricket.netlify.app/
