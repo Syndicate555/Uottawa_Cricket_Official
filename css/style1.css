@@ -92,13 +92,13 @@
 /* Blue */
 
 .info {
-    border-color: #2196F3;
+    border-color: #f32121;
     border-radius: 20px;
-    color: dodgerblue
+    color: rgb(0, 0, 0)
 }
 
 .info:hover {
-    background: #2196F3;
+    background: #f32121;
     color: white;
 }
 
