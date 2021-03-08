@@ -12,7 +12,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #1dc9ce;
+    color: #ec1313;
     outline: none;
     text-decoration: none;
 }
@@ -154,7 +154,7 @@ h6 {
 }
 
 #join {
-    background: linear-gradient(45deg, #da521c, #b8b8b8);
+    background: linear-gradient(115deg, #9e1212, #b8b8b8);
 }
 
 #header.header-fixed {
